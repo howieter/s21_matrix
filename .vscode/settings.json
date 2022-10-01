@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "random": "c",
+        "s21_matrix.h": "c",
+        "__locale": "c"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google }",
+    "files.autoSave": "onFocusChange",
+}
